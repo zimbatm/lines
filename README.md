@@ -92,6 +92,8 @@ Implementations
 
 Submit a pull-request to add yours.
 
+* [lines-ruby](https://github.com/zimbatm/lines-ruby)
+
 Thanks
 ------
 
