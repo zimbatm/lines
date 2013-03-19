@@ -91,3 +91,9 @@ Implementations
 ---------------
 
 Submit a pull-request to add yours.
+
+Thanks
+------
+
+* Lots of inspiration from the scrolls project. https://github.com/asenchi/scrolls
+
