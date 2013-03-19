@@ -3,6 +3,11 @@ Lines - structured logs for humans
 
 A log format that's readable by humans and easily parseable by computers.
 
+STATUS: WORK IN PROGRESS
+========================
+
+Things are still pretty much in flux so expect breakage ;-)
+
 Rationale
 ---------
 
