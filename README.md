@@ -90,4 +90,4 @@ Log levels are overrated.
 Implementations
 ---------------
 
-* [lines-ruby](https://github.com/zimbatm/lines-ruby)
+Submit a pull-request to add yours.
