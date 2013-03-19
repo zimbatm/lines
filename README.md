@@ -94,8 +94,10 @@ Submit a pull-request to add yours.
 
 * [lines-ruby](https://github.com/zimbatm/lines-ruby)
 
-Thanks
-------
+Acknowledgements & Thanks
+-------------------------
 
-* Lots of inspiration from the scrolls project. https://github.com/asenchi/scrolls
+* Lots of inspiration from the scrolls project: https://github.com/asenchi/scrolls
+* @kr for the another gist on the format:
+https://gist.github.com/kr/0e8d5ee4b954ce604bb2
 
