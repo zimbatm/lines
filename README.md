@@ -82,6 +82,7 @@ The semantic is quite free-format but it could be helpful to agree on a couple o
 * The "app" key contain the process name
 * The "pid" key contain the process pid
 * The "env" key contain the environm where the app was deployed
+* The "elapsed" key might contain some time measurement (with unit!)
 
 Library specifics
 -----------------
