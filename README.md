@@ -47,7 +47,7 @@ Every log entry is a single UTF-8 encoded line.
 # EBNF
 line = pair , { space, pair } ;
 pair = key, '=', value ;
-value = object | list | string | number | boolean | nil | time | litteral ;
+value = object | list | string | number | boolean | nil | time | literal ;
 object = '{', pair, { space, pair }, '}' ;
 list = '[', value, { space, value }, ']' ;
 string = '"', ? UTF-8 text where \" \r \n \\ are escaped ?, '"' ;
@@ -62,11 +62,11 @@ time =
   digit, digit, ":",
   digit, digit, ":",
   "Z" ;
-litteral = ? UTF-8 visible characters ? ;
+literal = ? UTF-8 visible characters ? ;
 space = " ";
 ```
 
-Litterals can be further parsed with language-specific formats and
+literals can be further parsed with language-specific formats and
 default to string when no match is found.
 
 `unit` allows you to keep the unit with your numbers. For example `3ms`. If
