@@ -62,7 +62,7 @@ time =
   digit, digit, ":",
   digit, digit, ":",
   "Z" ;
-literal = ? UTF-8 visible characters ? ;
+literal = ? UTF-8 visible characters ? - "=" ;
 space = " ";
 ```
 
