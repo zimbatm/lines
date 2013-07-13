@@ -35,8 +35,9 @@ software.
 Why not JSON ?
 --------------
 
-JSON is great for the web but not really readable when compacted on a single
-line. We also would like to keep more data types if possible like date/time.
+[JSON](http://json.org/) is great for the web but not really readable when
+compacted on a single line. We also would like to keep more data types if
+possible like date/time.
 
 Example
 -------
