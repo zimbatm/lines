@@ -155,4 +155,4 @@ Acknowledgements & Thanks
 * @kr for the another gist on the format:
 https://gist.github.com/kr/0e8d5ee4b954ce604bb2
 * The lograge project: https://github.com/roidrage/lograge
-
+* [logfmt](https://github.com/kr/logfmt)
