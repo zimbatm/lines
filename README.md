@@ -148,11 +148,12 @@ Submit a pull-request to add yours.
 
 * [lines-ruby](https://github.com/zimbatm/lines-ruby)
 
-Acknowledgements & Thanks
--------------------------
+Related projects
+----------------
 
 * Lots of inspiration from the scrolls project: https://github.com/asenchi/scrolls
 * @kr for the another gist on the format:
 https://gist.github.com/kr/0e8d5ee4b954ce604bb2
 * The lograge project: https://github.com/roidrage/lograge
-* [logfmt](https://github.com/kr/logfmt)
+* logfmt: http://godoc.org/github.com/kr/logfmt
+
