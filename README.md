@@ -3,8 +3,8 @@ Lines - structured logs for humans
 
 A log format that's readable by humans and easily parseable by computers.
 
-STATUS: WORK IN PROGRESS
-========================
+STATUS: DRAFT
+=============
 
 Things are starting to stabilize.
 
