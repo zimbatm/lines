@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+remote_theme: numtide/primer
 author:
   twitter: zimbatm
   github: zimbatm
